@@ -5,5 +5,7 @@
   "YetkiliKullanici": "myyyazilim",
   "YasakliProgramlar": ["VYS.MuhasebeBanka",
     "VYS.TetkikKontrol"],
+ //   "YasakliProgramlar": ["VYS.MuhasebeBanka",
+  //  "VYS.TetkikKontrol"],
   "YasakliMakineler": []
 }
