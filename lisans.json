@@ -1,8 +1,18 @@
 {
-  "Aktif": true,
-  "Mesaj": "Sistem yöneticisi tarafından erişim durdurulmuştur. Destek için iletişime geçiniz.",
-  "GuncellenmeTarihi": "2026-10-27 12:00:00",
-  "YetkiliKullanici": "myyyazilim",
-  "YasakliProgramlar": [],
-  "YasakliMakineler": []
+    "aktif":  true,
+    "mesaj":  "Sistem aktif ve kullanima aciktir.",
+    "guncellenmeTarihi":  "30.10.2026 18:34:21",
+    "yetkiliKullanici":  "Yusuf Yorulmaz",
+    "eklenenKullanicilar":  [
+
+                            ],
+    "cikarilanKullanicilar":  [
+
+                              ],
+    "bankaSonSurum":  "v3.3.0",
+    "bankaSurumNotu":  "103 Gonderme Emri Kapatma 336.12.01 otomatik satir ekleme, Borc Kapama fazla tutar emanete alma ve Belgelerim\\VYS iyilestirmeleri.",
+    "bankaIndirmeUrl":  "https://github.com/myyyazilim/VYS-Lisans/releases/download/banka-guncel/VYS.MuhasebeBanka.exe",
+    "tetkikSonSurum":  "v1.0.0",
+    "tetkikSurumNotu":  "Akilli Mali Belge Ogrenme, CSP denklem cozucu ve capraz mutabakat gelistirmeleri.",
+    "tetkikIndirmeUrl":  "https://github.com/myyyazilim/VYS-Lisans/releases/download/tetkik-guncel/VYS.TetkikKontrol.exe"
 }
