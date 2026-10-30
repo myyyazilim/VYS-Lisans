@@ -1,18 +1,31 @@
 {
-    "aktif":  true,
-    "mesaj":  "Sistem aktif ve kullanima aciktir.",
-    "guncellenmeTarihi":  "30.10.2026 18:34:21",
-    "yetkiliKullanici":  "Yusuf Yorulmaz",
-    "eklenenKullanicilar":  [
-
-                            ],
-    "cikarilanKullanicilar":  [
-
-                              ],
-    "bankaSonSurum":  "v3.3.0",
-    "bankaSurumNotu":  "103 Gonderme Emri Kapatma 336.12.01 otomatik satir ekleme, Borc Kapama fazla tutar emanete alma ve Belgelerim\\VYS iyilestirmeleri.",
-    "bankaIndirmeUrl":  "https://github.com/myyyazilim/VYS-Lisans/releases/download/banka-guncel/VYS.MuhasebeBanka.exe",
-    "tetkikSonSurum":  "v1.0.0",
-    "tetkikSurumNotu":  "Akilli Mali Belge Ogrenme, CSP denklem cozucu ve capraz mutabakat gelistirmeleri.",
-    "tetkikIndirmeUrl":  "https://github.com/myyyazilim/VYS-Lisans/releases/download/tetkik-guncel/VYS.TetkikKontrol.exe"
+  "Aktif": true,
+  "YeniSurumAktif": true,
+  "EskiSurumleriKapat": false,
+  "Mesaj": "Sistem aktif ve kullanima aciktir.",
+  "GuncellenmeTarihi": "2026-10-30 19:01:30",
+  "YetkiliKullanici": "Yusuf Yorulmaz",
+  "YasakliProgramlar": null,
+  "YasakliMakineler": null,
+  "EklenenKullanicilar": [],
+  "CikarilanKullanicilar": [
+    "Rukiye Doruköz"
+  ],
+  "KullaniciAyarYetkileri": {
+    "TestModuAcik": true,
+    "LogGosterAcik": true,
+    "SonGunuSorgulaAcik": true,
+    "TahminVeGelenParaAyarlariAcik": true,
+    "TumKurumlarModuAcik": false,
+    "GunlukOtomatikIlerleAcik": false,
+    "MizanKontrolSecimiAcik": false,
+    "AdimAdimOnayAcik": false,
+    "VysdeGosterSecimiAcik": false
+  },
+  "BankaSonSurum": "v3.3.0",
+  "BankaIndirmeUrl": "https://github.com/myyyazilim/VYS-Lisans/releases/download/banka-guncel/VYS.MuhasebeBanka.exe",
+  "BankaSurumNotu": "103 Gonderme Emri Kapatma 336.12.01 otomatik satir ekleme, Borc Kapama fazla tutar emanete alma ve Belgelerim\\VYS iyilestirmeleri.",
+  "TetkikSonSurum": "v1.0.0",
+  "TetkikIndirmeUrl": "https://github.com/myyyazilim/VYS-Lisans/releases/download/tetkik-guncel/VYS.TetkikKontrol.exe",
+  "TetkikSurumNotu": "Akilli Mali Belge Ogrenme, CSP denklem cozucu ve capraz mutabakat gelistirmeleri."
 }
