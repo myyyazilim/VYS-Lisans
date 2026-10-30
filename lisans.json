@@ -3,14 +3,12 @@
   "YeniSurumAktif": true,
   "EskiSurumleriKapat": false,
   "Mesaj": "Sistem aktif ve kullanima aciktir.",
-  "GuncellenmeTarihi": "2026-10-30 19:01:35",
+  "GuncellenmeTarihi": "2026-10-30 19:01:41",
   "YetkiliKullanici": "Yusuf Yorulmaz",
   "YasakliProgramlar": null,
   "YasakliMakineler": null,
   "EklenenKullanicilar": [],
-  "CikarilanKullanicilar": [
-    "Rukiye Doruköz"
-  ],
+  "CikarilanKullanicilar": [],
   "KullaniciAyarYetkileri": {
     "TestModuAcik": true,
     "LogGosterAcik": true,
