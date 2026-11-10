@@ -3,7 +3,7 @@
   "YeniSurumAktif": true,
   "EskiSurumleriKapat": false,
   "Mesaj": "Sistem aktif ve kullanima aciktir.",
-  "GuncellenmeTarihi": "2026-11-10 14:55:25",
+  "GuncellenmeTarihi": "2026-11-10 16:00:49",
   "YetkiliKullanici": "Yusuf Yorulmaz",
   "YasakliProgramlar": null,
   "YasakliMakineler": null,
@@ -23,7 +23,7 @@
   "BankaSonSurum": "v3.3.0",
   "BankaIndirmeUrl": "https://github.com/myyyazilim/VYS-Lisans/releases/download/banka-guncel/VYS.MuhasebeBanka.exe",
   "BankaSurumNotu": "103 Gönderme Emri Kapatma 336.12.01 otomatik satır ekleme, Borç Kapama fazla tutar emanete alma ve Belgelerim\\VYS iyileştirmeleri.",
-  "TetkikSonSurum": "v1.0.3",
+  "TetkikSonSurum": "v1.0.4",
   "TetkikIndirmeUrl": "https://github.com/myyyazilim/VYS-Lisans/releases/download/tetkik-guncel/VYS.TetkikKontrol.exe",
   "TetkikSurumNotu": "Akıllı Mali Belge Öğrenme, CSP denklem çözücü ve çapraz mutabakat geliştirmeleri."
 }
